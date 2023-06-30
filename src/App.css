@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.colors {
+  padding: 30px 30px;
+  font-size: 50px;
+}
+
+.red {
+  margin: auto 10px;
+  font-size: 30px;
+}
+
+.green {
+  margin: auto 10px;
+  font-size: 30px;
+}
+
+.blue {
+  margin: auto 10px;
+  font-size: 30px;
+}
